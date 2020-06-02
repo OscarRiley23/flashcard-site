@@ -35,4 +35,4 @@ Bootstrap
 
 *This software is licensed under the MIT license
 
-Copyright (c) 2016 **Chris Brauch, Oscar Riley, Ruthie Newman**
+Copyright (c) 2020 **Chris Brauch, Oscar Riley, Ruthie Newman**
